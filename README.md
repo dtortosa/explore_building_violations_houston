@@ -1,1 +1,5 @@
-# explore_building_violations_houston
+# Explore building violations in Houston
+
+In this project, I explored a dataset about building violations in Houston publicly available in the Open Data page of the City of Houston ([link](https://data.houstontx.gov/dataset/city-of-houston-building-code-enforcement-violations-don)).
+
+Using R data frames, I performed multiple operations to explore the data and extract insights, coupling this with coordinate data of the different locations to also perform spacial anlyses. The corresponding code can be found in the [scripts folder](scripts/challenge_1.R) along with the outputs ([.Rout file](scripts/challenge_1.Rout) and [plots in PDF](scripts/Rplots.pdf)).
